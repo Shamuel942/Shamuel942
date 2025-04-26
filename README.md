@@ -12,11 +12,11 @@
 
 ## 🧠 Sobre mí
 
-- 🎮 Desarrollador de **scripts para Roblox**, **bots de Discord**, **páginas web personalizadas** y **servidores Minecraft**
-- 🌍 Fundador de proyectos como **HispanosHost** y **Overse Network**
-- 🛡️ Apasionado por **la seguridad informática, automatización y diseño profesional**
-- 🔧 Siempre estoy creando herramientas para mejorar la experiencia del usuario
-- 📩 Puedes escribirme a **shamuel942.dev@gmail.com**
+- 🎮 Desarrollador de **scripts para Roblox**, **Bots de Discord**, **Páginas web personalizadas** y **Servidores Minecraft**.
+- 🌍 Fundador de proyectos como **MineDash Network**, **HispanosHost** y **HispanosMC Network**.
+- 🛡️ Apasionado por **la seguridad informática, automatización y diseño profesional**.
+- 🔧 Siempre estoy creando herramientas para mejorar la experiencia del usuario.
+- 📩 Puedes escribirme a **shamuel942@gmail.com**.
 
 ---
 
@@ -29,7 +29,7 @@
   <a href="https://github.com/Shamuel942" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
   </a>
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/2TUNprSCJs" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" height="30" width="30" />
   </a>
 </p>
